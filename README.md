@@ -4,8 +4,6 @@ REST API para una prueba de trabajo creado por José Bolívar.
 Tecnologias: NodeJS, Sequelize, Stripe y Elephantsql.
 Base de datos: PostgresSQL
 
-https://ibb.co/8bjrZH1
-
 ### DEMO --> https://test-3dlinks.herokuapp.com/
 
 ### POSTMAN --> https://documenter.getpostman.com/view/2941896/Uz5MEZPs
