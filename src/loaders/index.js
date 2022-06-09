@@ -28,8 +28,8 @@ const init = () => {
 
 init()
   .then((app) => {
-    app.listen(env.PORT, () => {
-      logger.info(`Servidor iniciado en el puerto ${env.PORT}`)
+    app.listen(3001, () => {
+      logger.info(`Servidor iniciado en el puerto 3001`)
     })
   })
   .catch((err) => {
