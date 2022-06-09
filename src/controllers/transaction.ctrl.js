@@ -18,7 +18,7 @@ const create = async (req, res, next) => {
     if (!card)
       res.status(403).json({
         success: false,
-        message: 'La tarjeta no se encuentra o no coincide el usuario',
+        message: 'La tarjeta no se encuentra o no coincide el usuario.',
       })
 
     //Buscamos el producto
